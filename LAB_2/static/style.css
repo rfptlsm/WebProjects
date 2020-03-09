@@ -1,0 +1,26 @@
+body {
+    background: black; /*фон*/
+    width: 800px;
+    margin: auto; /*Поля*/
+}
+
+h1 {
+    color: maroon;
+    text-align: center;
+}
+
+nav{
+    color: brown;
+    text-align: end;    
+}
+main{
+    text-align: center;
+    padding: 100px;/*Отступы*/
+}
+
+
+p {
+    color: gray;
+    border: 1px solid gray; /*Границы*/
+    padding: 10px;/*Отступы*/
+}
